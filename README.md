@@ -1,4 +1,6 @@
-<h1 align="center">Merkadit – Gastronomic Market Management</h1>
+<p align="center">
+  <img src="docs/images/merkadit-logo.png" alt="Merkadit – Gastronomic Market Management" width="300">
+</p>
 
 <p align="center">
   Merkadit is a database and REST API to manage gastronomic markets and the businesses inside them: point-of-sale registration, automatic commission calculation, monthly settlement of each business, and financial reports in Power BI.
